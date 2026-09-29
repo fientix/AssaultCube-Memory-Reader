@@ -6,6 +6,8 @@
 
 Bu proje, C dili ve **Windows API** (`windows.h`) kütüphaneleri kullanılarak açık kaynaklı **Assault Cube** oyununun bellek alanından (process memory) oyuncu değerlerini (Sağlık, Zırh, Mermi, Bomba vb.) okumak amacıyla **fientix** tarafından geliştirilmiş **eğitim odaklı** bir yazılımdır.
 
+**Not** : Projeyi çalıştırmak için adresleri **Cheat Engine** üzerinden tekrar bulmanız gerekecektir.
+
 ---
 
 ## 📌 Projenin Amacı ve Öğrenim Çıktıları
