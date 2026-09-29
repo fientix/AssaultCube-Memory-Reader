@@ -19,7 +19,7 @@ int main(void) {
     HWND gameWindowScreen = FindWindow(NULL, "AssaultCube");
 
     if (gameWindowScreen == NULL) {
-        printf("[-] Game Window not found!\n");
+        printf("[-] Game Window not found\n");
         return 1; 
     }
     printf("[*] Game Window Found\n");
