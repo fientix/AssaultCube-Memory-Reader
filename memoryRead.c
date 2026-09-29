@@ -24,7 +24,7 @@ int main(void) {
     }
     printf("[*] Game Window Found\n");
 
-    DWORD processID = 0;
+    DWORD processID;
     GetWindowThreadProcessId(gameWindowScreen, &processID);
     if (processID == 0) {
         printf("[-] Process ID not found\n");
