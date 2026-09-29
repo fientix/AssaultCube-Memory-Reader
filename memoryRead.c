@@ -27,14 +27,14 @@ int main(void) {
     DWORD processID = 0;
     GetWindowThreadProcessId(gameWindowScreen, &processID);
     if (processID == 0) {
-        printf("[-] Process ID not found!\n");
+        printf("[-] Process ID not found\n");
         return 1;
     }
     printf("[*] Process ID found: %lu\n", processID);
 
     HANDLE allowProcess = OpenProcess(PROCESS_VM_READ, FALSE, processID);
     if (allowProcess == NULL) {
-        printf("[-] Failed to open process!\n");
+        printf("[-] Failed to open process\n");
         return 1;
     }
 
