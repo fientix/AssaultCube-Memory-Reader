@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Bu proje, C dili ve **Windows API** (`windows.h`) kütüphaneleri kullanılarak açık kaynaklı **Assault Cube** oyununun bellek alanından (process memory) oyuncu değerlerini (Sağlık, Zırh, Mermi, Bomba vb.) okumak amacıyla **füzegünce** tarafından geliştirilmiş **eğitim odaklı** bir yazılımdır.
+Bu proje, C dili ve **Windows API** (`windows.h`) kütüphaneleri kullanılarak açık kaynaklı **Assault Cube** oyununun bellek alanından (process memory) oyuncu değerlerini (Sağlık, Zırh, Mermi, Bomba vb.) okumak amacıyla **fientix** tarafından geliştirilmiş **eğitim odaklı** bir yazılımdır.
 
 ---
 
